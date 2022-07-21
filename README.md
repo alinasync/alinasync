@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alinasync
-- 👀 I’m interested in contributing to open source projects.
-- ✨ Good luck ✨
+- 👀 I’m interested in learning from and contributing to open source projects.
+- ✨ Good luck and have fun ✨
 
 
 <!---
